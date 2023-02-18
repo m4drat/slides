@@ -6,7 +6,7 @@
 
 ## Compiled languages
 
-<img class="fragment" src="../assets/materials/compiled-2.png">
+<img class="fragment" src="assets/materials/compiled-2.png">
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## Interpreted languages
 
-<img class="fragment" src="../assets/materials/interpreted.png" height="550px">
+<img class="fragment" src="assets/materials/interpreted.png" height="550px">
 
 ---
 

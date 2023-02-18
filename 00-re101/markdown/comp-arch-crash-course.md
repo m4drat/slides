@@ -67,7 +67,7 @@ Depending on the architecture, the following things may be different:
 
 All general purpose registers can be accessed in 8, 16, 32, and 64 bit variants.
 
-<img src="../assets/materials/5roqw7y.png" width="600" height="300">
+<img src="assets/materials/5roqw7y.png" width="600" height="300">
 
 Note:
 
@@ -121,7 +121,7 @@ Stack is used to save local variables, function arguments, return addresses, sav
 
 ## Stack
 
-<img src="../assets/materials/Lifo_stack.svg" width="660" height="500">
+<img src="assets/materials/Lifo_stack.svg" width="660" height="500">
 
 ---
 
@@ -408,14 +408,14 @@ call do_it
 <div class="right-col", style="text-align:center;font-size:25px">
 
 <div class="r-stack">
-<img class="fragment fade-in-then-out" data-fragment-index="1" src="../assets/materials/stack-frame-1.png" style="width: 60%;">
-<img class="fragment fade-in-then-out" data-fragment-index="2" src="../assets/materials/stack-frame-2.png" style="width: 60%;">
-<img class="fragment fade-in-then-out" data-fragment-index="3" src="../assets/materials/stack-frame-3.png" style="width: 60%;">
-<img class="fragment fade-in-then-out" data-fragment-index="4" src="../assets/materials/stack-frame-4.png" style="width: 60%;">
-<img class="fragment fade-in-then-out" data-fragment-index="5" src="../assets/materials/stack-frame-5.png" style="width: 60%;">
-<img class="fragment fade-in-then-out" data-fragment-index="6" src="../assets/materials/stack-frame-6.png" style="width: 60%;">
-<img class="fragment fade-in-then-out" data-fragment-index="7" src="../assets/materials/stack-frame-7.png" style="width: 60%;">
-<img class="fragment fade-in-then-out" data-fragment-index="8" src="../assets/materials/stack-frame-8.png" style="width: 60%;">
+<img class="fragment fade-in-then-out" data-fragment-index="1" src="assets/materials/stack-frame-1.png" style="width: 60%;">
+<img class="fragment fade-in-then-out" data-fragment-index="2" src="assets/materials/stack-frame-2.png" style="width: 60%;">
+<img class="fragment fade-in-then-out" data-fragment-index="3" src="assets/materials/stack-frame-3.png" style="width: 60%;">
+<img class="fragment fade-in-then-out" data-fragment-index="4" src="assets/materials/stack-frame-4.png" style="width: 60%;">
+<img class="fragment fade-in-then-out" data-fragment-index="5" src="assets/materials/stack-frame-5.png" style="width: 60%;">
+<img class="fragment fade-in-then-out" data-fragment-index="6" src="assets/materials/stack-frame-6.png" style="width: 60%;">
+<img class="fragment fade-in-then-out" data-fragment-index="7" src="assets/materials/stack-frame-7.png" style="width: 60%;">
+<img class="fragment fade-in-then-out" data-fragment-index="8" src="assets/materials/stack-frame-8.png" style="width: 60%;">
 </div>
 
 </div>
@@ -459,7 +459,7 @@ Allows user space programs to access kernel functionality (read/write files, cre
 
 ## System calls
 
-<img src="../assets/materials/Workings-of-a-System-Call.webp">
+<img src="assets/materials/Workings-of-a-System-Call.webp">
 
 ---
 

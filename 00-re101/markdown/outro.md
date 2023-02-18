@@ -75,7 +75,7 @@ int main(int argc, char* argv[]) {
 
 ## 👨‍🔬 Symbolic Execution
 
-<img src="../assets/memes/7awds6.jpg">
+<img src="assets/memes/7awds6.jpg">
 
 Note:
 
@@ -85,25 +85,25 @@ Note:
 
 ## 🔨 Patching, Cheats
 
-<img class="fragment" src="../assets/memes/FISB6P1XMAgUNyi.png" width="510" height="410">
+<img class="fragment" src="assets/memes/FISB6P1XMAgUNyi.png" width="510" height="410">
 
 ---
 
 ## 🦡 Malware Analysis
 
-<img class="fragment" src="../assets/memes/photo_2022-12-17_15-25-52.jpg" height="500px">
+<img class="fragment" src="assets/memes/photo_2022-12-17_15-25-52.jpg" height="500px">
 
 ---
 
 ## 🧨 Vulnerability Research, Fuzzing
 
-<img class="fragment" src="../assets/memes/FOMLjDsXEAAcIgv.png" width="510" height="410">
+<img class="fragment" src="assets/memes/FOMLjDsXEAAcIgv.png" width="510" height="410">
 
 ---
 
 ## 🦍 Hardware RE
 
-<img class="fragment" src="../assets/materials/Peek-2020-08-31-20-43-1.gif" width="510" height="410">
+<img class="fragment" src="assets/materials/Peek-2020-08-31-20-43-1.gif" width="510" height="410">
 
 ---
 
@@ -116,13 +116,13 @@ Note:
 
 ## 🧠 Machine Learning and RE
 
-<img class="fragment" src="../assets/memes/communityIcon_anc30b6ykk461.jpg" width="450" height="450">
+<img class="fragment" src="assets/memes/communityIcon_anc30b6ykk461.jpg" width="450" height="450">
 
 ---
 
 ## 👨‍💻 Low level development
 
-<img class="fragment" src="../assets/memes/FWXr4dLXwAIWwqD.png" width="510" height="410">
+<img class="fragment" src="assets/memes/FWXr4dLXwAIWwqD.png" width="510" height="410">
 
 Note:
 

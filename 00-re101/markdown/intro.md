@@ -30,21 +30,21 @@ Note: That's why today we will learn how to first create things. We will start w
 <!-- Bruh, I'm not a designer -->
 <div id="social-media" style="display: flex; flex-direction: column; align-items: left; position: absolute; top: 105%; right: 37%">
  <div style="display: flex; align-items: center; margin-bottom: 5px;">
-  <img src="./../assets/logos/lightning.png" style="height: 1.5em; width: 1.5em; margin-right: 32px;"
+  <img src="assets/logos/lightning.png" style="height: 1.5em; width: 1.5em; margin-right: 32px;"
    alt="Pwn-Report" />
   <span style="vertical-align: middle;"><a href="https://pwn.report">pwn.report</a></span>
  </div>
  <div style="display: flex; align-items: center; margin-bottom: 5px;">
-  <img src="./../assets/logos/telegram.png" style="height: 1.5em; width: 1.5em; margin-right: 32px;"
+  <img src="assets/logos/telegram.png" style="height: 1.5em; width: 1.5em; margin-right: 32px;"
    alt="Telegram" text="pwn_report" />
   <span style="vertical-align: middle;"><a href="https://t.me/pwn_report">pwn_report</a></span>
  </div>
  <div style="display: flex; align-items: center; margin-bottom: 5px;">
-  <img src="./../assets/logos/twitter.png" style="height: 1.5em; width: 1.5em; margin-right: 32px;" alt="Twitter" />
+  <img src="assets/logos/twitter.png" style="height: 1.5em; width: 1.5em; margin-right: 32px;" alt="Twitter" />
   <span style="vertical-align: middle;"><a href="https://twitter.com/m4drat">m4drat</span>
  </div>
  <div style="display: flex; align-items: center; margin-bottom: 5px;">
-  <img src="./../assets/logos/github.png" style="height: 1.5em; width: 1.5em; margin-right: 32px;" alt="GitHub"/>
+  <img src="assets/logos/github.png" style="height: 1.5em; width: 1.5em; margin-right: 32px;" alt="GitHub"/>
   <span style="vertical-align: middle;"><a href="https://github.com/m4drat/">m4drat</span>
  </div>
 </div>
