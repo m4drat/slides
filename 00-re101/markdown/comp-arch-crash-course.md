@@ -111,7 +111,7 @@ For more examples, check out this: <!-- .element: style="font-size: 20px" --> [A
 
 <!-- .slide: data-transition="none-out" data-auto-animate -->
 
-FIFO (First In First Out) data structure.
+LIFO (Last In First Out) data structure.
 
 Stack is used to save local variables, function arguments, return addresses, saved registers, etc.
 
