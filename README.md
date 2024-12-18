@@ -11,7 +11,7 @@
 1. [Reverse Engineering 101](00-re101)
 2. [Binary Exploitation 101](01-pwn101)
 
-### Meetups
+## Meetups
 
 1. [Hitchhiker's Guide to Browser Exploitation](https://pwn.report/slides/03-mephiXbizone24-hitchhikers-guide-to-browser-exploitaion/Hitchhikers%20Guide%20to%20Browser%20Exploitation.pdf), MEPHI CTF x Bi.Zone Meet Up 2024.
 
