@@ -6,8 +6,8 @@
 
 ## Teaching Materials
 
-1. [Introduction to Binary Exploitation](04-intro-to-binary-exploitation), a lecture introducing basic concepts of binary exploitation for HSE students.
-2. [Introduction to Reverse Engineering](05-intro-to-reverse-engineering), a glimpse into reverse engineering for HSE students.
+1. [Introduction to Binary Exploitation (2025)](04-intro-to-binary-exploitation), a lecture introducing basic concepts of binary exploitation for HSE students.
+2. [Introduction to Reverse Engineering (2025)](05-intro-to-reverse-engineering), a glimpse into reverse engineering for HSE students.
 3. [Reverse engineering 101](00-re101)
 4. [Binary exploitation 101](01-pwn101)
 
